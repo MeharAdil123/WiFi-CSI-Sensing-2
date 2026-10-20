@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+Data/
+recordings/
+live_recordings/
+processed_recordings/
+processed_new_test_recordings/
+experiments/
+results/
